@@ -1,0 +1,31 @@
+/*
+
+selector (element){ (alt-gr+7)
+egenskap1;värde1;
+egenskap2;värde2;
+}(alt-gr+8)
+
+*/
+
+h1{
+    color:rgb(0, 17, 255);
+    background-color:tomato;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQIAAADDCAMAAABeUu/HAAAAdVBMVEW8AiT8/vy8ASR+Ahq7AB/FMUr14+f24ei7AB28ACLAASXSy8yeAAC4AADy5OPCADScAh/R09Hp6+nBADD7+vnq7utUAhJ4AADFvbyFACR9ABZkAADEASWdAACKKDrCFTjKOVapFjTh0dTIu79oAhSiACuAAACUGlQ8AAACDklEQVR4nO3a2U4jMRQEUF+WARIYSIABwr7+/yeyS1hDuiV8kbA4JZ5QhNFRufohXf6tZufoeLY8J4v089pyOi2rZ5Pk7PyN5dldyz6uMdtPBJOSnBGC7OPa8k6w8vazUv7/+ex3wx8dIfjiX/2mjyJAgOADQW7MYZ8tQIAAgTnUAgQIEJhDLXARECBAUBPkxhOhzxYgQIDAHGoBAgQIzKEWuAgIEFQEuTGHfbYAAQIE5lALECBAYA61wEVAgKAiyI057LMFCBAgQOCJoAUIECAwh+awuAgIEFQEuTGHfbYAAQIE5lALECBAYA614LUFi8215AwS7Kcf15jzablYz87lEMFV+nGNuZ6W2z/pORggyD+tMTfzMhv4f39DDhHMESBAgCAQBIJAEAgCQSAIBIEgEASCQBAIAkEgCASBIBAEgkAQCOLlq5TbjfQMfqGWf1xbbuZlsZmdkW+Wf1iev1yfbCVn5P2C7OMa4xULb5l418i7RsVFQICgIsiNOeyzBQgQIDCHWoAAAQJzqAUuAgIEFUFuzGGfLUCAAAECTwQtQIAAgTk0h8VFQICgIsiNOeyzBQgQIDCHWoAAAQJzqAUuAgIEFUFuzGGfLUCAAIE51AIECBAg8ETwRCguAgIEFUFuzGGfLUCAAIE51AIECBCYw1eCs0lyRgiyj2vME8HdXnbOj2fLc59+XGMepo8uigRFrGxSQwAAAABJRU5ErkJggg==);
+    background-image: repe;
+    font-size: 475px;
+
+
+}
+h2{
+color: blue;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/World_Map_%28political%29.svg/250px-World_Map_%28political%29.svg.png);
+font-size: 400px;
+
+}
+h3{
+color: blue;
+    background-image: url(https://www.shutterstock.com/image-illustration/danish-flag-silhouette-soldiers-military-600w-107580155.jpg);
+font-size: 400px;
+
+
+}
